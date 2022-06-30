@@ -672,7 +672,7 @@
     <string name="crash_dialog_heading">Vi løb ind i et problem, der førte til nedbrud</string>
     <!-- This string explains why Mozilla would like the user to allow the crash data to be uploaded.
          '%1$s' will be replaced at runtime with the app's domain name. -->
-    <string name="crash_dialog_message"><![CDATA[Hjælp Mozilla med at gøre %1$s bedre ved at indsende dine nedbruds-data.]]></string>
+    <string name="crash_dialog_message">Hjælp Mozilla med at gøre %1$s bedre ved at indsende dine nedbruds-data. <a href="more">Læs mere</a></string>
     <!-- This string labels a checkbox in the crash dialog box. When checked, the user will no longer
          be prompted for permission to upload crash data after an application crash. -->
     <string name="crash_dialog_send_data">Send altid data uden at spørge</string>
@@ -1016,7 +1016,7 @@
     <string name="privacy_options_saved_login_delete">Slet</string>
     <!-- This string is used to label radio buttons for setting ETP in.
          '%1$' Will be replaced at runtime with the Learn More url for ETP. -->
-    <string name="privacy_options_tracking"><![CDATA[Udvidet beskyttelse mod sporing. (<a href="%1$s">Læs mere</a>)]]></string>
+    <string name="privacy_options_tracking">Udvidet beskyttelse mod sporing. (<a href="%1$s">Læs mere</a>)</string>
     <!-- This string labels the button in the privacy option panel that opens the dialog to add/remove
          Tracking protection exceptions. -->
     <string name="privacy_options_tracking_exceptions_v1">Avanceret</string>
@@ -1596,7 +1596,7 @@ the Select` button. When clicked it closes all the previously selected tabs -->
     <string name="tray_status_headset">Headset: %1$s</string>
     <string name="settings_privacy_search_engine_title">Søgetjeneste</string>
     <string name="settings_privacy_choose_search_engine_reset">Gendan søgetjeneste indstillinger</string>
-    <string name="settings_privacy_choose_search_engine_description">Vælg din standard-søgetjeneste</string>
+    <string name="settings_privacy_choose_search_engine_description">Vælg din standard-søgetjeneste.</string>
     <string name="voice_search_unsupported">Stemme-søgning understøttes ikke på dit sprog.</string>
     <string name="voice_search_server_error">Stemme-søgning er i øjeblikket ikke tilgængelig.</string>
     <string name="settings_terms_service">Brugsvilkår</string>
