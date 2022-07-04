@@ -1601,4 +1601,6 @@ the Select` button. When clicked it closes all the previously selected tabs -->
     <string name="voice_search_server_error">Stemme-søgning er i øjeblikket ikke tilgængelig.</string>
     <string name="settings_terms_service">Brugsvilkår</string>
     <string name="external_open_uri_error_title">Fejl ved åbning af ekstern app</string>
+    <string name="settings_language_choose_language_voice_search_service_title">Stemme-søgningstjeneste</string>
+    <string name="settings_language_choose_language_voice_search_service_description">Vælg din foretrukne onlinetjeneste til stemme-søgning.</string>
 </resources>
